@@ -1,0 +1,16 @@
+{
+  "name": "GlobalTemp-csv-response",
+  "version": "1.0.0",
+  "description": "Data visualization of global temprature from the [Table of Global and Hemispheric Monthly Means and Annual Means/](https://data.giss.nasa.gov/gistemp/) updated by NASA.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
