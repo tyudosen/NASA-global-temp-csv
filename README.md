@@ -27,6 +27,10 @@ npm install
 npm run start
 ```
 
+# Future Updates
+
+* Backend that returns information fetched directly from NASA site. ( webscraper ? )
+
 # Author
 
 Toyo Udosen
